@@ -1,0 +1,1 @@
+msg = "You can equip any action to any input you currently don't have filled."

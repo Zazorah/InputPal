@@ -1,0 +1,1 @@
+msg = "Zappers will cause you to self-destruct if you make contact with them."

@@ -1,0 +1,1 @@
+input = inputs.move_down;

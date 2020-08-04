@@ -1,0 +1,1 @@
+msg = "Use the Up action to interact with switches.";

@@ -1,0 +1,1 @@
+msg = "Press up against a logic block, hold 'Left-Ctrl' or 'RT' and press a currently empty input to store it for later use.";

@@ -1,0 +1,1 @@
+msg = "Use 'Shift' or 'LT' and press a button to turn it's action into a Logic Crate."

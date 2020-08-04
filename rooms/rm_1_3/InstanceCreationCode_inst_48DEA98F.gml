@@ -1,0 +1,1 @@
+msg = "Use 'Z' or 'RT' and press a button to absorb it's action into an empty slot."

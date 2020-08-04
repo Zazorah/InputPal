@@ -1,0 +1,1 @@
+msg = "Press 'R' or 'Start' to self destruct if you get stuck.";
