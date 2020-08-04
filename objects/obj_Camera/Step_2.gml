@@ -4,8 +4,8 @@ camera_set_view_size(view, view_width, view_height);
 
 if(follow != noone)
 {
-	var xx = clamp(follow.x - view_width/2, 0, room_width - view_width);
-	var yy = clamp(follow.y - view_height/2, 0, room_height - view_height);
+	var xx = clamp((follow.x - view_width/2) + x_offset, 0, room_width - view_width);
+	var yy = clamp((follow.y - view_height/2) + y_offset, 0, room_height - view_height);
 	
 	var curr_x = camera_get_view_x(view);
 	var curr_y = camera_get_view_y(view);

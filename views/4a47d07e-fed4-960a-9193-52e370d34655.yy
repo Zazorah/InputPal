@@ -9,8 +9,7 @@
         "07534d75-a7a4-8ed3-d52a-5467badcb832",
         "5caeb429-75bd-4577-98f5-83a4aa77966f",
         "e5347ae7-f334-40c2-88c1-18fe61757847",
-        "7d9c91b6-6682-4ced-8f77-f452551933b4",
-        "cce0a6ab-e435-4ca7-a044-9fb21f52b359"
+        "7d9c91b6-6682-4ced-8f77-f452551933b4"
     ],
     "filterType": "GMScript",
     "folderName": "Actions",

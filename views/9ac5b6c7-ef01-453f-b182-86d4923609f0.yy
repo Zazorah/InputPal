@@ -11,7 +11,8 @@
         "ce671070-1b7d-44c7-9ff7-74082ede1c7c",
         "67123d4b-9942-4ab1-b5b1-5685931a2d43",
         "92b06baf-c4a7-4f10-82ff-fe15aca0f557",
-        "b4ddeb6d-def1-42a3-b3c3-a5532922785b"
+        "b4ddeb6d-def1-42a3-b3c3-a5532922785b",
+        "0ad26106-9d13-405d-aab9-faaef4bd89b2"
     ],
     "filterType": "GMSprite",
     "folderName": "Props",

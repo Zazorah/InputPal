@@ -17,7 +17,7 @@ credits[| 10] = "Special Thanks";
 credits[| 11] = LINES
 credits[| 12] = "Vivian, Mc, Rob";
 
-if(file_exists("info.dat"))
+if(file_exists(global.clown_path))
 {
 	ds_list_add(credits, " ");
 	ds_list_add(credits, "Clown Credits");

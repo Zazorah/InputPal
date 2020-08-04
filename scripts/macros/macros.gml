@@ -16,12 +16,23 @@ enum inputs //Ints are equal to image_index of crates
 #macro EXIT_DEPTH 5
 #macro CRATE_DEPTH 0
 
+//Misc
+#macro MAX_TIMER 362439
+
 global.debug = false;
 
 //Gates
 global.gates = ds_list_create();
 
-//Stage Select
-global.level_list = scr_create_level_list(); 
+//File I/O
+global.save_path = "save.dat";
+global.clown_path = "data.c";
+
+//Stage Select/Game Progress
+global.level_list = scr_create_level_list();
+global.unlocked_levels = ds_list_create();
 global.next_room = noone;
 global.level_index = 0;
+
+//Load Game Data
+scr_load_game();
