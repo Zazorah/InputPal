@@ -1,7 +1,7 @@
 {
     "id": "b40ffa9d-bb37-4707-adc6-3bfa50e8c092",
     "modelName": "GMExtension",
-    "mvc": "1.2",
+    "mvc": "1.0",
     "name": "Wipe_Transitions",
     "IncludedResources": [
         "Sprites\\Transitions\\spr_transition_diamond",
@@ -29,7 +29,6 @@
     "copyToTargets": -1,
     "date": "2020-49-11 01:07:31",
     "description": "",
-    "exportToGame": true,
     "extensionName": "",
     "files": [
         
@@ -50,12 +49,9 @@
     "maccompilerflags": "",
     "maclinkerflags": "",
     "macsourcedir": "",
-    "options": null,
-    "optionsFile": "options.json",
     "packageID": "com.diestware.transitions",
     "productID": "ACBD3CFF4E539AD869A0E8E3B4B022DD",
     "sourcedir": "",
-    "supportedTargets": -1,
     "tvosProps": false,
     "tvosSystemFrameworkEntries": [
         

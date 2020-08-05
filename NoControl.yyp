@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "558cfbe5-8ade-4e0a-9606-9dc495897aa4",
+            "Value": {
+                "id": "9e8d4d1e-092e-40ef-bc4a-462ffd693e11",
+                "resourcePath": "sprites\\spr_placeholderTiles1\\spr_placeholderTiles1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "55f9eb6d-4fb7-4541-93b4-6b294015f08d",
             "Value": {
                 "id": "1932d0a9-1376-4b93-a576-7e4bcf19a7f1",
@@ -1450,24 +1458,29 @@
     "script_order": [
         "a9f1d87d-4e77-4de2-c6a8-7df92df8da90",
         "5fff034a-7bc0-94ff-7011-51f84771a65e",
-        "c5f52eb1-9811-5a88-f8a5-76e8f6939c37",
         "32d7a9b2-6348-4376-a21c-a0d994341b3a",
         "cc490d8d-a1e9-4a01-ad5f-028c8a0c619e",
+        "aa413ee6-8ceb-2083-8efa-5a130bec045b",
+        "c5f52eb1-9811-5a88-f8a5-76e8f6939c37",
+        "37d5626b-480f-ea9b-046d-f3492b3c5114",
+        "b668b4d0-8ea7-efb9-4fed-3d61dd9c5f4d",
+        "f9a70b30-2d7f-d7b8-8c57-a64d57358b02",
+        "bbc21b82-a494-fd3c-9a72-c9123f228b33",
         "2b1171e5-6f8c-4eff-b47c-6a5cd8ed096d",
         "ebd3f9ab-aa7a-dc5f-2718-f2709945d575",
         "b3de7b43-f518-0bc8-732f-51e48c1401c3",
         "94abbb26-4960-9399-0fca-7b67b42da304",
         "dfc5cf87-05bb-bebf-a664-77318cf75e74",
         "5fd922c8-029b-c3b4-e565-55c43174e8bc",
+        "b3e133ab-923d-4e54-95b6-27df7e7ca427",
+        "aece5eba-aaa8-4bef-9fa6-7fa0c17ce489",
+        "1ecc3b1b-b0b8-4d1c-9e0e-a40774a691e0",
         "798e1d67-42cb-70a6-f2c3-573527905eaa",
         "d70963b9-b748-e12c-486a-1faed60ee0bb",
         "07534d75-a7a4-8ed3-d52a-5467badcb832",
         "5caeb429-75bd-4577-98f5-83a4aa77966f",
         "e5347ae7-f334-40c2-88c1-18fe61757847",
         "7d9c91b6-6682-4ced-8f77-f452551933b4",
-        "b3e133ab-923d-4e54-95b6-27df7e7ca427",
-        "aece5eba-aaa8-4bef-9fa6-7fa0c17ce489",
-        "1ecc3b1b-b0b8-4d1c-9e0e-a40774a691e0",
         "25d1c6fa-e535-4bf5-b7db-3f5a5fc84774",
         "dc00d78f-1c50-4c2a-8d05-f5ecc9916dd4",
         "2048ca6e-87a4-4a29-b58c-48d59740d6f6"
