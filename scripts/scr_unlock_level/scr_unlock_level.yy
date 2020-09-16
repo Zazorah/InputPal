@@ -1,8 +1,12 @@
 {
-    "id": "37d5626b-480f-ea9b-046d-f3492b3c5114",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "scr_unlock_level",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Level List Manip",
+    "path": "folders/Scripts/Utility/Level List Manip.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "scr_unlock_level",
+  "tags": [],
+  "resourceType": "GMScript",
 }

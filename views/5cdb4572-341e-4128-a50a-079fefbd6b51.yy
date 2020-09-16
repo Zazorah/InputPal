@@ -9,7 +9,8 @@
         "4264477d-66de-4409-8cf3-f0917d7a0028",
         "e6201ab6-ba8e-43db-8d36-718809281178",
         "e7ac8f4f-f7ec-4ac4-8148-ce03b9e4d842",
-        "39a8363a-36e0-4f83-a44c-4b6d7be7de13"
+        "39a8363a-36e0-4f83-a44c-4b6d7be7de13",
+        "8f45243d-49f2-3183-e58d-c430c8e12145"
     ],
     "filterType": "GMObject",
     "folderName": "Visuals",

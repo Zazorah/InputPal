@@ -1,8 +1,12 @@
 {
-    "id": "2b1171e5-6f8c-4eff-b47c-6a5cd8ed096d",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "scr_get_input",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Input",
+    "path": "folders/Scripts/Input.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "scr_get_input",
+  "tags": [],
+  "resourceType": "GMScript",
 }

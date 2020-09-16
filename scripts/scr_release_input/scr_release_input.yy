@@ -1,8 +1,12 @@
 {
-    "id": "ebd3f9ab-aa7a-dc5f-2718-f2709945d575",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "scr_release_input",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Input",
+    "path": "folders/Scripts/Input.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "scr_release_input",
+  "tags": [],
+  "resourceType": "GMScript",
 }

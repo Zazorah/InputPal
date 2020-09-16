@@ -1,8 +1,12 @@
 {
-    "id": "aa413ee6-8ceb-2083-8efa-5a130bec045b",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "scr_add_level",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Level List Manip",
+    "path": "folders/Scripts/Utility/Level List Manip.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "scr_add_level",
+  "tags": [],
+  "resourceType": "GMScript",
 }
